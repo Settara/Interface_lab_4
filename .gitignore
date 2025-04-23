@@ -1,0 +1,100 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build Results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## NuGet
+*.nupkg
+# The packages folder can be ignored because of package restore
+**/packages/*
+# except build/ folder
+!**/packages/build/
+# Uncomment if necessary
+#!**/packages/repositories.config
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ReSharper
+*.DotSettings.user
+
+## ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## TFS
+$tf/
+
+## StyleCop
+StyleCopReport.xml
+
+## Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*_i.asm
+*_p.asm
+*.cache
+*.vsix
+*.docstates
+
+## NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+## Publish
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+## Others
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.swo
+*.sqlite
+*.zip
+
+# User-specific files
+*.user
+*.rsuser
+
+# Azure
+.csdef
+*.csdef
+*.csccfg
+*.cscfg
+
+# Local history for JetBrains IDEs
+.idea/
